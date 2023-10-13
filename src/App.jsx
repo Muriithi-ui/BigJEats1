@@ -13,7 +13,7 @@ import food11 from './food11.jpg'
 import { BiLogoInstagram } from 'react-icons/bi'
 import { BiLogoTiktok } from 'react-icons/bi'
 import { BiLogoTwitter } from 'react-icons/bi'
-import { AiOutlineCopyrightCircle } from "react-icons/ai";
+import { AiOutlineCopyrightCircle } from 'react-icons/ai'
 function App() {
   return (
     <>
